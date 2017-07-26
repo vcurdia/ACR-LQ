@@ -1,8 +1,8 @@
-# LQ
+# ACR-LQ
 
 v1.0.0
 
-LQ is a package of codes to generate a quadratic approximation to the welfare
+ACR-LQ is a package of codes to generate a quadratic approximation to the welfare
 function and solve for the correct first order approximation solution to the
 optimal policy problem. It also checks the second order conditions.
 
@@ -10,8 +10,7 @@ optimal policy problem. It also checks the second order conditions.
 # License
 BSD 3-Clause License
 
-Copyright (c) 2004-2010, Filipo Altissimo, Vasco Curdia, and Diego Rodriguez
-Palenzuela
+Copyright (c) 2004-2010, Filipo Altissimo, Vasco Curdia, and Diego Rodriguez-Palenzuela
 
 All rights reserved.
 
