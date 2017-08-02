@@ -17,6 +17,10 @@ The codes implement the linear-quadratic approximation method described in
 [Linear-quadratic approximation of optimal policy problems](http://www.sciencedirect.com/science/article/pii/S0022053111001451)
 *Journal of Economic Theory* 147(1), pp. 1-42.
 
+These replication codes are available online at:  
+https://github.com/vcurdia/ACR-LQ
+
+
 
 # Requirements
 
