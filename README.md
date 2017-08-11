@@ -1,7 +1,7 @@
 # ACR-LQ
 
-[![License](https://img.shields.io/badge/license-BSD%203--clause-green.svg)](https://github.com/vcurdia/ACR-LQ/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/vcurdia/ACR-LQ/releases/tag/v1.0.0)
+[![License](https://img.shields.io/badge/License-BSD%203--clause-green.svg)](https://github.com/vcurdia/ACR-LQ/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/badge/GitHub-v1.0.1-blue.svg)](https://github.com/vcurdia/ACR-LQ/releases/tag/v1.0.1)
 
 ACR-LQ is a package of codes to generate a quadratic approximation to the
 welfare function and solve for the correct first order approximation solution
