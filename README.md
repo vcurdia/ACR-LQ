@@ -1,7 +1,7 @@
 # ACR-LQ
 
-[![License](https://img.shields.io/badge/License-BSD%203--clause-green.svg)](https://github.com/vcurdia/ACR-LQ/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/badge/GitHub-v1.0.1-blue.svg)](https://github.com/vcurdia/ACR-LQ/releases/tag/v1.0.1)
+[![License](https://img.shields.io/badge/License-BSD%203--clause-green.svg)](./LICENSE)
+[![Release](https://img.shields.io/badge/Release-1.0.2-blue.svg)](https://github.com/vcurdia/ACR-LQ/releases/tag/v1.0.2)
 
 ACR-LQ is a package of codes to generate a quadratic approximation to the
 welfare function and solve for the correct first order approximation solution
@@ -22,21 +22,21 @@ https://github.com/vcurdia/ACR-LQ
 
 
 
-# Requirements
+## Requirements
 
-## Matlab (R) 
+### Matlab (R) 
 These codes have been tested on Matlab (R) R1016b with following toolboxes
 - Symbolic Toolbox
 
 
-## Additional Matlab (R) codes
+### Additional Matlab (R) codes
 - [gensys](http://sims.princeton.edu/yftp/gensys/)
   by [Chris Sims](http://www.princeton.edu/~sims/)
 - [optimize](http://dge.repec.org/codes/sims/optimize/)
   by [Chris Sims](http://www.princeton.edu/~sims/)
 
 
-# Description of main files
+## Description of main files
 
 `LQGenSymVar.m`
 
@@ -73,7 +73,7 @@ Evaluates the welfare value of a given policy rule.
 Current limitation: assumes that policies are stationary.
 
 
-# Example:
+## Example:
 
 The package also includes an example (in folder Example) showing how to use the
 codes. The example's main script is the file `MonFrictions.m` which sets up the
@@ -105,7 +105,7 @@ Plots the optimal policy against the alternative rule.
 Generates comparison plots for alternative calibrations of the model.
 
 
-# Additional Information
+## Additional Information
 
 Each of the functions and scripts contains help at the beginning of the codes,
 which can be accessed using the help or doc commands in matlab. E.g.: 
